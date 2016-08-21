@@ -19,6 +19,6 @@ Example(GeeksForGeeks Android App version 7.8.20):
 6. App works as usual with no ads.   
 7. Other examples : Merriam Dictionary, Dictionary.com  
 
-Limitations : 
-1. Many of the famous apps show ads from multiple ad sources. So, even if this method disables ads from Google, the app might still show you ads from a different source e.g. InMobi.   
-2. Some app developers write the unique admob IDs' in java files which become incomprehensible smali files on decompiling.  
+Limitations :   
+1. Many of the famous apps show ads from multiple ad sources. So, even if this method disables ads from Google, the app might still show you ads from a different source e.g. InMobi.     
+2. Some app developers write the unique admob IDs' in java files which become incomprehensible smali files on decompiling.    
